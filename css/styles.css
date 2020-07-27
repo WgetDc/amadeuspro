@@ -1,0 +1,117 @@
+  .logo{
+      width: 166px;
+  }
+
+
+  .masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('../img/fondo.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+  }
+
+  .masthead2 {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('../img/fondo2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+  }
+
+  .masthead3 {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('../img/fondo3.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+  }
+
+  .masthead4 {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('../img/fondo4.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+  }
+
+  .masthead5 {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('../img/fondo5.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+  }
+
+  .masthead6 {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('../img/fondo6.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+  }
+
+  .masthead7 {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('../img/fondo7.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+  }
+
+  .masthead8 {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('../img/fondo8.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+  }
+
+  .masthead9 {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('../img/fondo9.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+  }
+
+  *{
+    font-family: 'Roboto', sans-serif;
+  }
+
+  #sticky-footer a {
+    flex-shrink: none;
+    color: white;
+  }
+
+  #sticky-footer a:hover {
+    transition: 0.5s;
+    color: gray;
+    text-decoration: none;
+  }
+  .gris{
+    color: gray;
+  }
+  
+
+  hr {
+    border-top: 1px solid white;
+  }
